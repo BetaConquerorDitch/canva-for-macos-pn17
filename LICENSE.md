@@ -1,4 +1,4 @@
-
+exclusive Script for Affinity Photo for macOS - export to SVG and asset management is the best Affinity Photo for macOS script, featuring export to SVG and asset management. Safe,
 
 
 
